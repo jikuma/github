@@ -1,4 +1,4 @@
-# GitHub Action for GitHub
+# GitHub Action for GitHub 
 
 This action conveniently wraps [actions-toolkit](https://github.com/JasonEtco/actions-toolkit), making it simple to do things like label, assign, and comment on issues on GitHub.
 
