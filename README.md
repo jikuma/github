@@ -1,8 +1,8 @@
-# GitHub Action for GitHub
+# GitHub Action for GitHub 
 
 This action conveniently wraps [actions-toolkit](https://github.com/JasonEtco/actions-toolkit), making it simple to do things like label, assign, and comment on issues on GitHub.
 
-Here are a few use cases for this action:
+Here are a few use cases for this action: 
 
 ## Applying a "triage" label on any new issue:
 
